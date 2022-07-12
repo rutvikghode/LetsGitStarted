@@ -9,7 +9,7 @@
 
 -[@Pranavjoshi](https://www.linkedin.com/in/pranav-joshi-168298231/)
 
-Sahil Patil(B3nzeneKnight)
+-[@SahilPatil](www.linkedin.com/in/sahil-patil-3aa186217)
 
 Aneesh Pathak
 
@@ -22,5 +22,6 @@ Raj Dugad(rajdugad)
 -[@Om-Khode](https://www.linkedin.com/in/om-khode/)
 
 Ameya Prashant Paldewar -[@Mr-Spiritual](https://www.linkedin.com/in/ameya-paldewar/)
+
 
 
