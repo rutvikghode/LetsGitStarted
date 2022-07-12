@@ -1,7 +1,10 @@
 #Contributor Name: - LinkedIn Profile
 
 
--[@Ashishgangurde](https://www.linkedin.com/in/ashish-gangurde/)
+-[@Ashishgangurde](https://www.linkedin.com/in/ashish-gangurde/)  
+
+-[@tusharn85](https://www.linkedin.com/in/tushar-nasery/)
+
 -[@samarth-thosar](https://www.linkedin.com/in/samarth-thosar-076711234/) 
 
 -[@Pranavjoshi](https://www.linkedin.com/in/pranav-joshi-168298231/)
