@@ -33,6 +33,8 @@ Khushi Agarwal(the-yellowumbrella)
 
 -[Gyaneshwari-PPatil](https://www.linkedin.com/in/gyaneshwari58)
 
+-[@MahiChrungoo](https://www.linkedin.com/in/mahi-chrungoo)
+
 -[@Amogh-Deshmukh](https://www.linkedin.com/in/amogh-deshmukh-68bb99231/)
 
 
