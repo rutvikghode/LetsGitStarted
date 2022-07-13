@@ -27,6 +27,8 @@ Ameya Prashant Paldewar -[@Mr-Spiritual](https://www.linkedin.com/in/ameya-palde
 
 Khushi Agarwal(the-yellowumbrella)
 
+-[@Gaurav_Gangde](https://www.linkedin.com/in/gaurav-gangde-b4ab1a229)
+
 -[@Gauri-Choudhari](https://www.linkedin.com/in/gauri-choudhari-305193231/)
 
 
