@@ -11,7 +11,7 @@ We don't care if you break things here. This is a playground which will make you
 
 2. On the [GitHub page for this repository](https://github.com/IEEE-SB-VIT-PUNE/LetsGitStarted), click on the Button "Fork". 
 
-   ![Uploading image.png…]()
+   ![fork repo image](https://docs.github.com/assets/cb-28613/images/help/repository/fork_button.png)
 
 3. Clone _your forked repository_ to your computer:
 
